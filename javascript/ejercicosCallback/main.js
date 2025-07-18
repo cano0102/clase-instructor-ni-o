@@ -35,6 +35,7 @@
 
 
 
+
 // function mostrarNumuerosCallback(num1,num2,oper,callback) {
 //     console.log(`numeros a operar ${num1} y ${num2}`)
 //     callback(num1,num2,oper);
@@ -62,6 +63,13 @@
 
 
 // mostrarNumuerosCallback(5, 3,"-", operacionMatematica);
+
+
+
+
+// ejercicio filtrar Array
+
+
 
 
 
