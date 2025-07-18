@@ -14,6 +14,9 @@ function edades(edad1,edad2) {
 
 edades(12,34)
 
+
+
+
 //   Escribe un programa que tome un número entero ingresado por el usuario y determine si es par o impar.
 
 
@@ -95,8 +98,6 @@ function calificacion(notas) {
     if (notas > 80 && notas <= 100) {
         console.log("tienes una A")
     }
-    
-    
     
 }
 

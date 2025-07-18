@@ -442,6 +442,7 @@ datos()
 // dicho producto y un descuento. Calcular y mostrar el subtotal, el monto del IVA
 // que es el 19% del subtotal, y el precio neto (precio parcial con el Monto del IVA).
 
+
 function comparas() {
 
     let PrecioDeUnidades = parseFloat(prompt("DAME EL PRECIO DE LA UNIDAD:"));
