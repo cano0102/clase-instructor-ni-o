@@ -256,6 +256,6 @@ const productos = [
 
 
 
-function filtrarArray(params) {
+function filtrarArray( callback) {
     
 }
