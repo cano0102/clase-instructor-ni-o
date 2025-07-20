@@ -241,3 +241,14 @@
 //   validarTransaccion,
 //   calcularComision
 // );
+
+
+
+const productos = [
+  { nombre: "Laptop", precio: 999, categoria: "electrónica", enStock: true },
+  { nombre: "Camiseta", precio: 25, categoria: "ropa", enStock: false },
+  { nombre: "Smartphone", precio: 699, categoria: "electrónica", enStock: true }
+];
+
+
+
