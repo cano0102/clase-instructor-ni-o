@@ -252,3 +252,10 @@ const productos = [
 
 
 
+
+
+
+
+function filtrarArray(params) {
+    
+}
